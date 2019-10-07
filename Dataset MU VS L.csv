@@ -1,21 +1,21 @@
-﻿Season,Home,Away,Score,Result,Competition
-2017/2018,Liverpool,Manchester United,0-0,Draw,League
-2015/2016,Manchester United,Liverpool,1-1,Draw,Europe League
-2015/2016,Liverpool,Manchester United,2-0,Win,Europe League
-2015/2016,Liverpool,Manchester United,0-1,Lose,League
-2015/2016,Manchester United,Liverpool,3-1,Win,League
-2014/2015,Liverpool,Manchester United,1-2,Lose,League
-2014/2015,Manchester United,Liverpool,3-0,Win,League
-2013/2014,Manchester United,Liverpool,0-3,Lose,League
-2013/2014,Manchester United,Liverpool,1-0,Win,League Cup
-2013/2014,Liverpool,Manchester United,1-0,Win,League
-2012/2013,Manchester United,Liverpool,2-1,Win,League
-2012/2013,Liverpool,Manchester United,1-2,Lose,League
-2011/2012,Manchester United,Liverpool,2-1,Win,League
-2011/2012.Liverpool,Manchester United,2-1,Win, F.A. Cup
-2011/2012.Liverpool,Manchester United,1-1,Draw,League
-2010/2011,Liverpool,Manchester United,3-1,Win,League
-2010/2011,Manchester United,Liverpool,1-0,Win,F.A. Cup
-2010/2011,Manchester United,Liverpool,3-2,Win,League
-2009/2010,Manchester United,Liverpool,2-1,Win,League
-2009/2010,Liverpool,Manchester United,2-0,Win,League
+﻿Season,Manchester United,Liverpool,Home Score,Away Score,Competition
+2017/2018,Away,Home,0,0,League
+2015/2016,Home,Away,1,1,Europe League
+2015/2016,Away,Home,2,0,Europe League
+2015/2016,Away,Home,0,1,League
+2015/2016,Home,Away,3,1,League
+2014/2015,Away,Home,1,2,League
+2014/2015,Home,Away,3,0,League
+2013/2014,Home,Away,0,3,League
+2013/2014,Home,Away,1,0,League Cup
+2013/2014,Away,Home,1,0,League
+2012/2013,Home,Away,2,1,League
+2012/2013,Away,Home,1,2,League
+2011/2012,Home,Away,2,1,League
+2011/2012,Away,Home,2,1,F.A. Cup
+2011/2012,Away,Home,1,1,League
+2010/2011,Away,Home,3,1,League
+2010/2011,Home,Away,1,0,F.A. Cup
+2010/2011,Home,Away,3,2,League
+2009/2010,Home,Away,2,1,League
+2009/2010,Away,Home,2,0,League
